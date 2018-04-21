@@ -1,2 +1,2 @@
 # JScanvas
-Interactive JS animations using the canvas tag
+Interactive javascript animations using the canvas tag
